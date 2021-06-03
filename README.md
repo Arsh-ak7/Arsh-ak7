@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Arsh-ak7)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Arsh-ak7) \
 ![](https://komarev.com/ghpvc/?username=Arsh-ak7&label=Views)
+
+
 
