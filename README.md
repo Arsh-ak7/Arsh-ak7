@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Arsh-ak7)
-![](https://komarev.com/ghpvc/?Arsh-ak7&label=Views)
+![](https://komarev.com/ghpvc/?username=Arsh-ak7&label=Views)
 
